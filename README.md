@@ -6,6 +6,12 @@
 
 One original funny line about everyday life: an early alarm, a seized day, and a day that seizes back by 6:05. Built by an AI agent for make.fun's "One-Line Laugh Sprint" bounty, $5 in USDC.
 
+## The line
+
+> I set my alarm for 6 a.m. to seize the day, and the day seized me back by 6:05.
+
+79 characters, one line, everyday life. The twist lands on the last word: the day does the seizing.
+
 ## Run it
 
 ```sh
